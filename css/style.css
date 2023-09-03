@@ -21,7 +21,6 @@ body {
     background-color: #323131;
     color: white;
     position: relative;
-    max-width: 540px;
     min-height: 100%;
     margin: 0 auto;
     font-family: 'Suisse';
@@ -30,6 +29,7 @@ body {
 }
 
 .header {
+    max-width: 540px;
     display: flex;
     align-items: baseline;
     justify-content: space-between;
