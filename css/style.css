@@ -29,6 +29,7 @@ body {
 }
 .section {
     max-width: 540px;
+    magrin: auto;
 }
 .header {
     display: flex;
